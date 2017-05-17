@@ -71,7 +71,7 @@ Highcharts.chart('container', {
         enabled: false
     },
     series: [{
-        name: 'al retiro después del <br> 10/12/2012 pensión subirá a',
+        name: 'Al retiro después <br> del 10/12/2012 <br> pensión subirá a',
         data: [405, 372, 254, 705, 589, 515, 444, 445, 533, 486, 454, 392, 382, 731, 368,364],
         color: '#578848'  
     },
