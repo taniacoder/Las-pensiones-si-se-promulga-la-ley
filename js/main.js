@@ -48,7 +48,7 @@ Highcharts.chart('container', {
         }
     },
     tooltip: {
-        valueSuffix: ' millions'
+        valueSuffix: 'Soles'
     },
     plotOptions: {
        series: {
